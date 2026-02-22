@@ -7,3 +7,6 @@
 下载安装包和Translation/fridaTranslation.json。<br>
 启动游戏后退出，将fridaTranslation.json复制到Android/data/jp.co.dmm.dmmgames.ayarabux.luojun（沙盒文件夹）中。<br>
 然后再次启动即可。<br>
+<br>
+注意：<br>
+因为是本地翻译所有翻译文件均在json文件中所以有些新的文本可能会没有翻译。
