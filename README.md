@@ -1,0 +1,2 @@
+# Monstrous_Creature_Game_Translation
+基于Frida-il2cpp-bridge的dmm妖怪中文翻译
